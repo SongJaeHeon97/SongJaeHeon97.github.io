@@ -60,32 +60,26 @@ plugins:
 author:
   name   : "JaeHeon Song"
   avatar : "/assets/images/프로필.png"
-  bio    : "안녕하세요. 저는 송재헌입니다. 제 포트폴리오를 보러 와주셔서 감사합니다."
+  bio    : "안녕하세요 저는 송재헌입니다. 제 포트폴리오를 보러 와주셔서 감사합니다."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://songjaeheon97.github.io/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://https://github.com/SongJaeHeon97"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/jaeheon_song97/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://https://github.com/SongJaeHeon97"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/jaeheon_song97/"
 
 defaults:
   # _posts
