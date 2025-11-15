@@ -16,12 +16,10 @@
 title: 송재헌의 포트폴리오
 email: thdwogjs4505@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  이 깃허브 페이지는 저의 개인적인 학습 내용, 포트폴리오 등의 글을 작성하기 위한 공간입니다.
 twitter_username: username
 github_username: SongJaeHeon97
-minimal_mistakes_skin: default
+minimal_mistakes_skin: sunrise
 search: true
 
 # Build settings
@@ -31,8 +29,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
+timezone: Asia/Seoul
 include:
   - _pages
 
