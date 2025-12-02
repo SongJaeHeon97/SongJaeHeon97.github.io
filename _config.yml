@@ -117,7 +117,6 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "다양한 학습내용과 포트폴리오를 정리하기 위한 공간"
   location         : "Republic of Korea"
-  email            : "thdwogjs4505@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
