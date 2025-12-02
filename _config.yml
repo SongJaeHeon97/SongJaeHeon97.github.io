@@ -18,15 +18,15 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "재헌의 학습공간"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+title_separator          : "|"
+subtitle                 : "많은 것을 배워나가자!!"
 name                     : "송재헌"
 description              : "학습내용과 포트폴리오의 정리를 위한 공간입니다."
 url                      : "https://songjaeheon97.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+repository               : "SongJaeHeon97/SongJaeHeon97.github.io"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png" 다음번에 설정하자 원하는 사진 찾아
+logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"다음번에 설정하자 원하는 로고 제작 JHS?
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
