@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Main"
+    url: https://songjaeheon97.github.io/  
   - title: "About Me"
     url: https://songjaeheon97.github.io/aboutMe/
   - title: "Posts"
