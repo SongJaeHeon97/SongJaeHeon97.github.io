@@ -74,7 +74,7 @@ analytics:
 # Site Author
 author:
   name             : "송재헌"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "assets/images/decorate/profile.png"
   bio              : "다양한 학습내용과 포트폴리오를 정리하기 위한 공간"
   location         : "Republic of Korea"
   links:
@@ -100,7 +100,7 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/jaeheon_song97/"
-  since: "2013"
+  since: "2025"
 
 
 # Reading Files
@@ -170,7 +170,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Seoul
 
 
 # Pagination with jekyll-paginate
