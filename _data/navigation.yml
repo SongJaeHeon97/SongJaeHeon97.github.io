@@ -1,10 +1,8 @@
 # main links
 main:
-  - title: "About"
-    url: https://songjaeheon97.github.io/about/
+  - title: "About Me"
+    url: https://songjaeheon97.github.io/aboutMe/
   - title: "Posts"
     url: /year-archive/
   - title: "Collections"
     url: /collection-archive/
-  - title: "Sitemap"
-    url: /sitemap/
