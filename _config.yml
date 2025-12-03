@@ -23,7 +23,7 @@ subtitle                 : "많은 것을 배워나가자!!"
 name                     : "송재헌"
 description              : "학습내용과 포트폴리오의 정리를 위한 공간입니다."
 url                      : "https://songjaeheon97.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "/SJH97"
 repository               : "SongJaeHeon97/SongJaeHeon97.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png" 다음번에 설정하자 원하는 사진 찾아
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"다음번에 설정하자 원하는 로고 제작 JHS?
