@@ -1,9 +1,7 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://songjaeheon97.github.io/docs/quick-start-guide/
   - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: https://songjaeheon97.github.io/minimal-mistakes/about/
   - title: "Sample Posts"
     url: /year-archive/
   - title: "Sample Collections"
