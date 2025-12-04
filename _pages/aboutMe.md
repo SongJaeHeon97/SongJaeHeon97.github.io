@@ -13,16 +13,15 @@ toc: true
        style="width:240px; border-radius:10px;">
 
   <div style="flex:1; min-width:250px;">
-    <h3>프로젝트 제목</h3>
+    <h3>간단한 소개</h3>
      <p>
-      이 이미지는 설명용 샘플입니다.  
-      오른쪽에는 자유롭게 텍스트, bullet list, 코드 등을 넣을 수 있습니다.
+      • 학력: - 한국폴리텍대학 인천캠퍼스 AI융합소프트웨어과 산업학사 졸업
+              - 서울사이버대학교 인공지능학과 재학 중
+      • 전공: 컴퓨터공학  
+      • 경력: - (주)기데크 재직 중
+      • 관심 분야: AI, IoT, Robotics, Web Programming  
+      • Email: thdwogjs4505@gmail.com 
     </p>
-
-  - 주요 기능
-    - 기능 1
-    - 기능 2
-    - 기능 3  
   </div>
 
 </div>
