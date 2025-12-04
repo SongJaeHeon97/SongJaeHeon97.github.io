@@ -16,11 +16,3 @@ $sans-serif-narrow  : "Inconsolata", monospace, "PT Sans Narrow", -apple-system,
 $global-font-family : $serif;
 $header-font-family : $sans-serif-narrow;
 $caption-font-family: $serif !default;
-
-.page__content {
-  max-width: 1400px !important;
-}
-
-.page {
-  max-width: 1400px !important;
-}
