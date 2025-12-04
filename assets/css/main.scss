@@ -9,6 +9,7 @@ search: false
 @import "minimal-mistakes"; // main partials
 @import "custom/card";  
 @import "custom/sidebar";
+@import "custom/sidebar_border";
 
 //Font 변경
 @import url('https://fonts.googleapis.com/css?family=Inconsolata');
