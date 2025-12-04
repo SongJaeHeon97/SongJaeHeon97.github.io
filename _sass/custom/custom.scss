@@ -1,7 +1,65 @@
-.page__content {
+/* -----------------------------
+   Global Layout Width
+   전체 페이지 가로폭 확장
+------------------------------ */
+
+/* 기본 페이지 콘텐츠 넓히기 */
+.page__content,
+.page,
+.wrapper {
   max-width: 1400px !important;
 }
 
-.page {
-  max-width: 1400px !important;
+/* -----------------------------
+   AboutMe 카드 스타일 개선
+------------------------------ */
+
+/* 카드 전체 영역 확장 */
+.about-card {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 30px;
+  width: 100%;
+  padding: 25px;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  background: #fafafa;
+  align-items: flex-start;
+}
+
+/* 프로필 이미지 고정 크기 + 반응형 기준 */
+.about-card img {
+  width: 260px;
+  height: auto;
+  border-radius: 12px;
+  object-fit: cover;
+}
+
+/* 텍스트 영역 */
+.about-info {
+  flex: 1;
+  min-width: 300px;
+}
+
+/* 목록 스타일 개선 */
+.about-info ul {
+  padding-left: 20px;
+}
+
+.about-info li {
+  margin-bottom: 6px;
+  line-height: 1.4;
+}
+
+/* 작은 화면 대응 (모바일) */
+@media (max-width: 800px) {
+  .about-card {
+    flex-wrap: wrap;
+    text-align: center;
+  }
+
+  .about-card img {
+    width: 80%;
+    margin: 0 auto;
+  }
 }
