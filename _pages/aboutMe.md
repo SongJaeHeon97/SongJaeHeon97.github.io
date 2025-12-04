@@ -9,27 +9,13 @@ toc: true
 
 저의 대하여 소개를 드리고자 합니다.
 
-<div style="
-  display:flex; 
-  flex-wrap:wrap; 
-  align-items:flex-start; 
-  gap:20px; 
-  padding:20px; 
-  border:1px solid #ddd; 
-  border-radius:10px;
-  width:100%;
-  box-sizing:border-box;
-  margin-top:20px;
-">
+<div class="about-card">
 
-  <img src="/assets/images/decorate/profile_aboutMe.png" 
-       alt="프로필 사진" 
-       style="width:240px; border-radius:10px;">
+  <img src="/assets/images/decorate/profile_aboutMe.png" alt="프로필 사진">
 
-  <div style="flex:1; min-width:250px;">
+  <div class="about-info">
     <h3>간단한 소개</h3>
-    <h5>
-      <ul>
+    <ul>
       <li><strong>이름</strong>: 송재헌</li>
       <li><strong>학력</strong>
         <ul>
@@ -46,7 +32,6 @@ toc: true
       <li><strong>관심 분야</strong>: AI, IoT, Robotics, Web Programming</li>
       <li><strong>Email</strong>: thdwogjs4505@gmail.com</li>
     </ul>
-    </h5>
   </div>
 
 </div>
