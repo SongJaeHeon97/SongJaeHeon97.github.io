@@ -1,4 +1,35 @@
-// 좌우 sidebar 폭 조정
-$right-sidebar-width: 100px !default;  // 기존값보다 줄임
-$right-sidebar-width-narrow: 100px !default;
-$right-sidebar-width-wide: 250px !default;
+/* ==========================================================================  
+   Sidebar 폭 및 구분선 조정
+   ========================================================================== */
+
+/* 좌측 sidebar */
+.page__sidebar--left {
+  width: 200px !important;         /* 좌측 sidebar 폭 */
+  border-right: 1px solid #ddd;    /* 좌측 sidebar와 본문 사이 구분선 */
+  box-sizing: border-box;           /* padding 포함 폭 계산 */
+}
+
+/* 우측 sidebar */
+.page__sidebar--right {
+  width: 200px !important;         /* 우측 sidebar 폭 */
+  border-left: 1px solid #ddd;     /* 우측 sidebar와 본문 사이 구분선 */
+  box-sizing: border-box;
+}
+
+/* 본문 영역 폭 조정 */
+.page__content {
+  max-width: calc(100% - 200px - 200px) !important;  /* 좌우 sidebar 폭 빼기 */
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+/* 반응형: 화면이 작으면 sidebar 최소 폭 적용 */
+@media (max-width: 1024px) {
+  .page__sidebar--left,
+  .page__sidebar--right {
+    width: 150px !important;
+  }
+  .page__content {
+    max-width: calc(100% - 150px - 150px) !important;
+  }
+}
