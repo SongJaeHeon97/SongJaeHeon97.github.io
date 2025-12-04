@@ -11,11 +11,15 @@ main:
 
 #side bar
 sidebar-category:
-  - title: "카테고리"
+  - title: "Programming"
     children:
-      - title: "블로그"
-        url: "/blog"
-      - title: "카테고리B"
-        url:  "/CategoryB"
-      - title: "카테고리C"
-        url:  "/CategoryC"
+      - title: "AI"
+        url: "/AI"
+      - title: "Python"
+        url:  "/Python"
+      - title: "WebProgramming"
+        url:  "/WebProgramming"
+  - title: "Portfolio"
+    children:
+      - title: "캡스톤2024"
+        url: "/Capstone2024"
