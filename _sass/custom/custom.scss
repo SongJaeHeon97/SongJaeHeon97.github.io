@@ -26,6 +26,10 @@
   position: relative;
 }
 
+.page__content > .post__title {
+  margin-left: 10px;  // 제목 10px 오른쪽 이동
+}
+
 /* 포스트 콘텐츠 순서 및 간격 */
 .page__content {
   display: flex;
