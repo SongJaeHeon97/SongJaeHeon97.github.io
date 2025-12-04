@@ -17,6 +17,8 @@ toc: true
   padding:20px; 
   border:1px solid #ddd; 
   border-radius:10px;
+  width:100%;
+  box-sizing:border-box;
   margin-top:20px;
 ">
 
