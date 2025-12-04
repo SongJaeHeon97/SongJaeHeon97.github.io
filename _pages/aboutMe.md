@@ -28,26 +28,25 @@ toc: true
 
   <div style="flex:1; min-width:250px;">
     <h3>간단한 소개</h3>
-    <ul>
+    <h5>
+      <ul>
+      <li><strong>이름</strong>: 송재헌</li>
       <li><strong>학력</strong>
         <ul>
           <li>한국폴리텍대학 인천캠퍼스 AI융합소프트웨어과 산업학사 졸업</li>
           <li>서울사이버대학교 인공지능학과 재학 중</li>
         </ul>
       </li>
-
       <li><strong>전공</strong>: 컴퓨터공학</li>
-
       <li><strong>경력</strong>
         <ul>
           <li>(주)기데크 재직 중</li>
         </ul>
       </li>
-
       <li><strong>관심 분야</strong>: AI, IoT, Robotics, Web Programming</li>
-
       <li><strong>Email</strong>: thdwogjs4505@gmail.com</li>
     </ul>
+    </h5>
   </div>
 
 </div>
