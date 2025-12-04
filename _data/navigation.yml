@@ -7,7 +7,7 @@ main:
   - title: "Posts"
     url: /year-archive/
   - title: "Categories"
-    url: /category-archive/
+    url: /categories/
 
 #side bar
 sidebar-category:
