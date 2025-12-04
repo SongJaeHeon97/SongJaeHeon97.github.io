@@ -1,7 +1,7 @@
 ---
 permalink: /aboutMe/
 title: "About Me"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+excerpt: "송재헌의 소개란으로 학력, 경력, 기술 등을 소개하는 페이지"
 layout: single
 layouts_gallery:
   - url: /assets/images/decorate/profile.png
