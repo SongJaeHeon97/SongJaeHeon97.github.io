@@ -4,14 +4,14 @@
 
 /* 좌측 sidebar */
 .page__sidebar--left {
-  width: 200px !important;         /* 좌측 sidebar 폭 */
+  width: 100px !important;         /* 좌측 sidebar 폭 */
   border-right: 1px solid #ddd;    /* 좌측 sidebar와 본문 사이 구분선 */
   box-sizing: border-box;           /* padding 포함 폭 계산 */
 }
 
 /* 우측 sidebar */
 .page__sidebar--right {
-  width: 200px !important;         /* 우측 sidebar 폭 */
+  width: 100px !important;         /* 우측 sidebar 폭 */
   border-left: 1px solid #ddd;     /* 우측 sidebar와 본문 사이 구분선 */
   box-sizing: border-box;
 }
