@@ -268,5 +268,12 @@ defaults:
       related: true
       show_date: true
 
+ # 사이드바
+  - scope:
+      path: ""
+    values:
+      sidebar:
+        nav: main
+
 #코드블록 복사 허용 disabled on individual code blocks by adding {: .no-copy} to the code block’s class list.
 enable_copy_code_button: true
