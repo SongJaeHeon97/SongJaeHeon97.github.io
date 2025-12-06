@@ -14,12 +14,12 @@ sidebar-category:
   - title: "Programming"
     children:
       - title: "AI"
-        url: "/categories/AI"
+        url: "/categories/ai"
       - title: "Python"
-        url:  "/categories/Python"
+        url:  "/categories/python"
       - title: "WebProgramming"
-        url:  "/categories/WebProgramming"
+        url:  "/categories/webprogramming"
   - title: "Portfolio"
     children:
       - title: "캡스톤2024"
-        url: "/categories/Capstone2024"
+        url: "/categories/capstone2024"
